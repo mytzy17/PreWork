@@ -1,3 +1,5 @@
+# Pre-work - *Tip Calc*
+
 **Tip Calc** is a tip calculator application for iOS.
 
 Submitted by: **Mytzy Escalante**
